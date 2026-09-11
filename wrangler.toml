@@ -1,1 +1,4 @@
-name = "pyroxen-devhints" compatibility_date = "2025-04-01" [assets] directory = "./dist/"
+ name = "pyroxen-devhints" 
+ compatibility_date = "2025-04-01" 
+ [assets] 
+ directory = "./dist/"
